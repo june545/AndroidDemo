@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SDK_TELECOM_AUTH_UI_V3_no_emp_1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/SDK_TELECOM_AUTH_UI_V3_no_emp_1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
